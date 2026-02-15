@@ -8,3 +8,4 @@ Coded entirely in Java, utilizing the JavaFX UI library to display the calculato
 
 This project was primarily done over the 2025 summer so that I could practice the use of the JavaFX library, which I had brief exposure to during COMP 1406 at Carleton University. I also had a sense of personal
 investment in the project, since I wanted to learn how a regular physical calculator is able to handle complex calculations and what type of code workflow is used to switch between operations and hold a history of previous responses.
+I've only now posted it onto my GitHub to have a record of my code, and even more than that to show my process in terms of learning new languages and taking what is learned at school and transfering into genuinely interesting applications, such as this.
